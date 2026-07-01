@@ -1,0 +1,13 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+
+# MCP
+mcp
+fastmcp
+
+# Database
+sqlalchemy
+
+# Validation
+pydantic
