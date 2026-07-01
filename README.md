@@ -94,6 +94,7 @@ pip install -r requirements.txt
 If you're starting from scratch, generate the SQLite database:
 
 ```bash
+cd src
 python seed.py
 ```
 
@@ -127,7 +128,7 @@ http://localhost:8000/docs
 
 # 🤖 Testing the MCP Server file
 
-Start the local MCP server:
+You can test the local MCP server:
 
 ```bash
 python mcp_server.py
